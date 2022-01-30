@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Meta.unity
+    guid: daaf621e5c780244db8d72590c3470b5
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 10e0d611c6576654f8a209cfc3f0330a
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: bea4697dca757cb45918fe69d93256d1
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: f50652470c88ae042a5ae6f04baf485f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: e8d69679eddd2f2489307bb15c7821e6
+  - enabled: 1
+    path: Assets/Scenes/CatTreeMinigame.unity
+    guid: 3be9b206680b4574486e3b69fcb350b0
+  - enabled: 1
+    path: Assets/Scenes/Window Minigame.unity
+    guid: e86ac079b4b05d94b979b4f6af2d4bf8
+  - enabled: 1
+    path: Assets/Scenes/ZoomiesRace.unity
+    guid: 1ce887761dfa78c47b12a9fbbcfe3c63
+  - enabled: 1
+    path: Assets/Scenes/Furniture Hunt Scene.unity
+    guid: 96ab0bc00e239a04ca3684528e921bbd
+  m_configObjects: {}

@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 8e95f6ed40cec944f9a76232a081551f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8784270610991573597
+    second: Cat Tree Jump Spritesheet_0
+  - first:
+      213: -4386931066883946181
+    second: Cat Tree Jump Spritesheet_1
+  - first:
+      213: -4491333121563556613
+    second: Cat Tree Jump Spritesheet_2
+  - first:
+      213: 7252972068299842544
+    second: Cat Tree Jump Spritesheet_3
+  - first:
+      213: 6795425975570838128
+    second: Cat Tree Jump Spritesheet_4
+  - first:
+      213: 8029080221652561762
+    second: Cat Tree Jump Spritesheet_5
+  - first:
+      213: 3467419055864826537
+    second: Cat Tree Jump Spritesheet_6
+  - first:
+      213: 448387202181999701
+    second: Cat Tree Jump Spritesheet_7
+  - first:
+      213: -9058394719650860464
+    second: Cat Tree Jump Spritesheet_8
+  - first:
+      213: 5840126376623112456
+    second: Cat Tree Jump Spritesheet_9
+  - first:
+      213: 6842592866660016543
+    second: Cat Tree Jump Spritesheet_10
+  - first:
+      213: -4911698970121817257
+    second: Cat Tree Jump Spritesheet_11
+  - first:
+      213: 6151334407471274141
+    second: Cat Tree Jump Spritesheet_12
+  - first:
+      213: 5328383977506275618
+    second: Cat Tree Jump Spritesheet_13
+  - first:
+      213: -7115915190925652645
+    second: Cat Tree Jump Spritesheet_14
+  - first:
+      213: -548378501314573448
+    second: Cat Tree Jump Spritesheet_15
+  - first:
+      213: -8354450353740372527
+    second: Cat Tree Jump Spritesheet_16
+  - first:
+      213: 7322552114677289324
+    second: Cat Tree Jump Spritesheet_17
+  - first:
+      213: -4775763141871011269
+    second: Cat Tree Jump Spritesheet_18
+  - first:
+      213: -10235333712361748
+    second: Cat Tree Jump Spritesheet_19
+  - first:
+      213: 5056569182797403952
+    second: Cat Tree Jump Spritesheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4920
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a591fc9b60081680800000000000000
+      internalID: -8784270610991573597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 4920
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39c148007d7e13c0800000000000000
+      internalID: -4386931066883946181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 4920
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4024172549ba1c0800000000000000
+      internalID: -4491333121563556613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 4920
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3a7d01babb7a460800000000000000
+      internalID: 7252972068299842544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4920
+        y: 4920
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072bc5bcbe33e4e50800000000000000
+      internalID: 6795425975570838128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3690
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f27b4fbe50d6f60800000000000000
+      internalID: 8029080221652561762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3690
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4e38924fbe1030800000000000000
+      internalID: 3467419055864826537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 3690
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca3e3e8cdf83600800000000000000
+      internalID: 448387202181999701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 3690
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052bfe3fefd1a4280800000000000000
+      internalID: -9058394719650860464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4920
+        y: 3690
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801820a4ffb4c0150800000000000000
+      internalID: 5840126376623112456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2460
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9164e765f5c5fe50800000000000000
+      internalID: 6842592866660016543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2460
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753bc3a5fc326dbb0800000000000000
+      internalID: -4911698970121817257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2460
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9896fb6d0eed5550800000000000000
+      internalID: 6151334407471274141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 2460
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221052e1ff832f940800000000000000
+      internalID: 5328383977506275618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 4920
+        y: 2460
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0219e5d03f3d90800000000000000
+      internalID: -7115915190925652645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0fa298a4c368f0800000000000000
+      internalID: -548378501314573448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1230
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52ba3caa70f0c80800000000000000
+      internalID: -8354450353740372527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1230
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6110ac0a5eee9560800000000000000
+      internalID: 7322552114677289324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 1230
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aff5db9b419bdb0800000000000000
+      internalID: -4775763141871011269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 4920
+        y: 1230
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6cae9a403abdff0800000000000000
+      internalID: -10235333712361748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat Tree Jump Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1230
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03793d281ea8c2640800000000000000
+      internalID: 5056569182797403952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
